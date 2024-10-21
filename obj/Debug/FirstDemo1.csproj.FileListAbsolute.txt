@@ -1,0 +1,7 @@
+C:\Users\Engineers\source\repos\FirstDemo1\FirstDemo1\bin\Debug\FirstDemo1.exe.config
+C:\Users\Engineers\source\repos\FirstDemo1\FirstDemo1\bin\Debug\FirstDemo1.exe
+C:\Users\Engineers\source\repos\FirstDemo1\FirstDemo1\bin\Debug\FirstDemo1.pdb
+C:\Users\Engineers\source\repos\FirstDemo1\FirstDemo1\obj\Debug\FirstDemo1.csproj.AssemblyReference.cache
+C:\Users\Engineers\source\repos\FirstDemo1\FirstDemo1\obj\Debug\FirstDemo1.csproj.CoreCompileInputs.cache
+C:\Users\Engineers\source\repos\FirstDemo1\FirstDemo1\obj\Debug\FirstDemo1.exe
+C:\Users\Engineers\source\repos\FirstDemo1\FirstDemo1\obj\Debug\FirstDemo1.pdb
